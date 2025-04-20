@@ -6,6 +6,15 @@ NewsCloud is a Flutter-based mobile application that aggregates and displays new
 ## Project Structure
 
 ```
+assets/  
+├── business.avif           # Business category icon  
+├── entertainment.avif      # Entertainment category icon  
+├── general.avif            # General news icon  
+├── health.avif             # Health category icon  
+├── science.avif            # Science category icon  
+├── sports.avif             # Sports category icon  
+└── technology.jpeg         # Technology category icon 
+
 lib/
 ├── main.dart                # Main application entry point
 ├── models/
