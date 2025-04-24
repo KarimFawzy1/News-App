@@ -40,7 +40,7 @@ class HomePage extends StatelessWidget {
                 TextSpan(
                   text: 'Cloud',
                   style: TextStyle(
-                    color: Colors.orange,
+                    color: Color(0xFFFEA900),
                     fontSize: 20,
                     fontWeight: FontWeight.bold,
                   ),
