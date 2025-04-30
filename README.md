@@ -71,9 +71,9 @@ You may need to:
 2. Configure base URLs for news endpoints
 
 ## Screenshots
-![Screenshot 2025-04-20 180740](https://github.com/user-attachments/assets/834e1793-9d2e-4635-b68f-7fd3ce331ba6)
-![Screenshot 2025-04-20 180802](https://github.com/user-attachments/assets/8b4d90e4-ac7a-4d65-8ffc-80bb97f1c5cd)
-![Screenshot 2025-04-20 180831](https://github.com/user-attachments/assets/b7ba98ce-23a5-458d-bd19-5de347a9dbdf)
+<img src="https://github.com/user-attachments/assets/834e1793-9d2e-4635-b68f-7fd3ce331ba6" width="300" alt="Screenshot 1">
+<img src="https://github.com/user-attachments/assets/8b4d90e4-ac7a-4d65-8ffc-80bb97f1c5cd" width="300" alt="Screenshot 2">
+<img src="https://github.com/user-attachments/assets/b7ba98ce-23a5-458d-bd19-5de347a9dbdf" width="300" alt="Screenshot 3">
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
